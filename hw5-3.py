@@ -15,3 +15,5 @@ calendar.TextCalendar().prmonth(2021, 6)
 # N/A doesnt work
 
 # Question 5
+print(calendar.isleap(2021))
+# It expect a year for the argument, as a result it returns false which is a boolean value.
